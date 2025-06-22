@@ -1,0 +1,28 @@
+Dark Mode
+
+SOS Settings (Location Sharing, Custom Emergency Message, Duration between each Message) (Fix the background flash effect)  DONE
+
+Emergency Contacts (Add Contacts, Add from Contacts, Contacts you added)
+
+Emergency Activation Modes (Power Button 3 time tap, Shake with its sensitivity, Long Press Power Button, Tips on finding the right sensitivity to avoid accidental triggers)   DONE
+
+Alert Notification Settings (Select alert sound, Vibration on/off, )    DONE
+
+Medical Information
+	
+Add Widget
+
+Privacy and Permission
+
+Test Mode
+
+-------
+-------
+
+Safety Tips and Resources
+
+Share
+
+Rate Us
+
+About Us
