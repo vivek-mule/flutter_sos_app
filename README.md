@@ -58,10 +58,3 @@ A powerful and lightweight Flutter application designed to quickly alert emergen
 ![Screenshot](https://github.com/vivek-mule/flutter_sos_app/blob/main/screenshots/Activation%20Modes%20Page.jpg?raw=true)
 
 ---
-
-## 📦 Installation
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/vivek-mule/flutter_sos_app
-   cd flutter_sos_app
