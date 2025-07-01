@@ -50,12 +50,12 @@ A powerful and lightweight Flutter application designed to quickly alert emergen
 
 ## 📷 Screenshots
 
-![Screenshot](https://drive.google.com/file/d/1CtWj7XAaHNCLTjUiJ-TWcIDyxlWFzXYV/view?usp=sharing)
-![Screenshot](https://drive.google.com/file/d/1-zFGhkefMfEoTTShBfd62nEnAGuHL-wU/view?usp=sharing)
-![Screenshot](https://drive.google.com/file/d/19rY9NiKIdq50uiuIKXzGDvWl937ZeZUg/view?usp=sharing)
-![Screenshot](https://drive.google.com/file/d/1q5_8zIGCpHHFTe54DO8qko5bPRXF81nb/view?usp=sharing)
-![Screenshot](https://drive.google.com/file/d/1ug84OQvdtgQ0VAMPxAHQebaIcwy_Qluy/view?usp=sharing)
-![Screenshot](https://drive.google.com/file/d/1Yb5GN9D78AfjQ3OjZRlLzyngc_0vlfUO/view?usp=sharing)
+![Screenshot](https://github.com/vivek-mule/flutter_sos_app/blob/main/screenshots/Home%20Page.jpg?raw=true)
+![Screenshot](https://github.com/vivek-mule/flutter_sos_app/blob/main/screenshots/SOS%20Start%20Widget.jpg?raw=true)
+![Screenshot](https://github.com/vivek-mule/flutter_sos_app/blob/main/screenshots/Settings%20Page.jpg?raw=true)
+![Screenshot](https://github.com/vivek-mule/flutter_sos_app/blob/main/screenshots/SOS%20Settings%20Page.jpg?raw=true)
+![Screenshot](https://github.com/vivek-mule/flutter_sos_app/blob/main/screenshots/Contacts%20Page.jpg?raw=true)
+![Screenshot](https://github.com/vivek-mule/flutter_sos_app/blob/main/screenshots/Activation%20Modes%20Page.jpg?raw=true)
 
 ---
 
